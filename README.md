@@ -5,7 +5,7 @@
 1. 熟悉Redis
 1. 熟悉消息队列RabbitMQ
 1. 熟悉Rafka
-1. 熟悉Doobo
+1. 熟悉Dubbo
 1. 熟悉Nigix
 
 
